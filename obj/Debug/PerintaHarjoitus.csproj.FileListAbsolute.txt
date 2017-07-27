@@ -1,0 +1,9 @@
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\bin\Debug\PerintaHarjoitus.exe.config
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\bin\Debug\PerintaHarjoitus.exe
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\bin\Debug\PerintaHarjoitus.pdb
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\obj\Debug\PerintaHarjoitus.csprojResolveAssemblyReference.cache
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\obj\Debug\PerintaHarjoitus.Paaikkuna.resources
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\obj\Debug\PerintaHarjoitus.Properties.Resources.resources
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\obj\Debug\PerintaHarjoitus.csproj.GenerateResource.Cache
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\obj\Debug\PerintaHarjoitus.exe
+C:\Users\1601723\Documents\Visual Studio 2017\Projects\SummerTraining2017\PerintaHarjoitus\PerintaHarjoitus\obj\Debug\PerintaHarjoitus.pdb
